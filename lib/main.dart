@@ -24,6 +24,7 @@ class MyApp extends StatelessWidget {
           ),
           prefixIconColor: Color.fromRGBO(119,119,119,1),
         ),
+        useMaterial3: true,
       ),
       
       home:const HomePage(),
