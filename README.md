@@ -84,13 +84,7 @@ This app utilizes the following state management techniques:
 
 ---
 
-## Contributions
-Contributions, issues, and feature requests are welcome! Feel free to fork the repository and create a pull request.
 
----
-
-## License
-This project is licensed under the MIT License.
 
 ---
 
