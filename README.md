@@ -85,9 +85,3 @@ This app utilizes the following state management techniques:
 ---
 
 
-
----
-
-## Contact
-For any queries or suggestions, please reach out to [Your Email/Contact Info].
-
