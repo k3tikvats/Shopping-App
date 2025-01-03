@@ -16,6 +16,11 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // return MultiProvider(providers: [
+    //   ChangeNotifierProvider(create: (context)=>CartProvider()),
+    // ],)
+    //if u have multi providers u caa use multi provider 
+
     return ChangeNotifierProvider(
       create:(context)=>CartProvider(),
       child: MaterialApp(
